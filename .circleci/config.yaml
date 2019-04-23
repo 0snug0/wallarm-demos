@@ -1,0 +1,10 @@
+version: 2
+jobs:
+  build:
+    working_directory: ~/fast/circle-ci
+    docker:
+      - image: circleci/ruby:2.4.1
+    steps:
+      - checkout
+          path: ~/fast/circle-ci
+      - run: echo "A first hello"
