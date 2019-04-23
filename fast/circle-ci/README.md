@@ -1,6 +1,7 @@
+[![CircleCI](https://circleci.com/gh/0snug0/wallarm-demos/tree/master.svg?style=svg)](https://circleci.com/gh/0snug0/wallarm-demos/tree/master)
+
 # Wallarm FAST Demo for Circle-CI
 A Circle CI demo with a Wallarm FAST proxy running 1000's of security test
-[![CircleCI](https://circleci.com/gh/0snug0/wallarm-demos/tree/master.svg?style=svg)](https://circleci.com/gh/0snug0/wallarm-demos/tree/master)
 
 ## Demo Components
 ### DVWA
