@@ -1,0 +1,5 @@
+secretGenerator:
+- name: my-ssh-keys
+  files:
+  - .ssh/id_rsa
+  - .ssh/id_rsa.pub
